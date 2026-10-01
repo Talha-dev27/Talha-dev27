@@ -156,25 +156,28 @@ I work across the stack — from designing interfaces and backend architectures 
 
 # 🚀 Featured Projects
 
+# 🚀 Featured Projects
+
+## 📚 Studify
+
+A full-stack education platform focused on providing students with a modern learning experience.
+
+**Tech:** Full-Stack Development · Backend · APIs · Database · Web Development
+
+[🔗 View Studify Repository](https://github.com/Talha-dev27/Studify)
+
+---
+
 ## 🔎 Lead Radar AI
 
 An AI-powered lead generation and qualification system that discovers businesses, evaluates their online presence, and organizes qualified leads automatically.
 
 **Tech:** Python · n8n · APIs · AI · Google Sheets
 
-[🔗 View Project](YOUR_REPOSITORY_URL)
+[🔗 View Lead Radar AI Repository](https://github.com/Talha-dev27/Lead-generation-)
 
----
 
-## 🧠 RAG Chatbot
 
-A Retrieval-Augmented Generation application designed to allow users to interact with their own documents using AI-powered retrieval and generation.
-
-**Tech:** Python · RAG · LLMs · Vector Search · APIs
-
-[🔗 View Project](YOUR_REPOSITORY_URL)
-
----
 
 # 💡 Engineering Philosophy
 
